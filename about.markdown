@@ -4,15 +4,8 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+We are Team 3 from the TCMG 412 class at Texas A&M University. We are looking forward to learning more about devops from our professor Adam Mikeal and we hope to be able to share some neat projects along the way.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+We think that devops is super interesting to learn about because because there is so much to learn. So hopefully we will be able to get a nice slice into the world of devops and everything that supports it.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+![Devops tools](/assets/devops-tools.png)
