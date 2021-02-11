@@ -11,3 +11,7 @@ title:  "Texas A&M University Info Blog"
 Reveille has been the official mascot of Texas A&M University since 1931. Although the first Reveille was a mixed breed dog, Reveille has traditionally been a pure bred collie since Reveille III. Each year, Reveille is assigned a new handler, a sophomore cadet in Company E-2. Reveille lives with this handler, attends class with them, and even travels home with them for the holidays. Formally known as the First Lady of Aggieland, Reveille is also the highest ranking member of the Texas A&M Corps of Cadets.
 
 
+# Reveille Picture
+![reveille picture](/assets/revpic.png)
+
+
