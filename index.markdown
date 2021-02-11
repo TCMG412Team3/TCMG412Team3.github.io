@@ -6,6 +6,6 @@ layout: home
 ---
 
 
-# Welcome to the TCMG 412 - Team 3 website!
+**Welcome to the TCMG 412 - Team 3 website!**
 
- We have some assorted content from our team members and a short about us page that you can view. Please see a post from below or the about page in the navbar!
+We have some assorted content from our team members and a short about us page that you can view. Please see a post from below or the about page in the navbar!
